@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="h-screen flex flex-col items-center justify-center bg-blue-950">
-      <h1 className="text-white text-center text-6xl py-20">Electronica</h1>
+      <h1 className="text-white text-center text-6xl py-16">Electronica</h1>
 
       {/* Partie lecteur */}
       <div className="bg-slate-950 rounded-lg shadow-lg w-[90vh] max-w-[700px] h-[50vh] flex flex-col items-center py-5">

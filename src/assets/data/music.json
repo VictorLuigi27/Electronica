@@ -3,70 +3,70 @@
         "id": 1,
         "title": "Are U Feelin Me",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/knock2-4.jpg",
-        "source": "/src/assets/music/Knock2 - Are U Feelin Me.mp3"
+        "picture": "/public/assets/pictures/knock2-4.jpg",
+        "source": "/public/assets/music/Knock2 - Are U Feelin Me.mp3"
     },
     {
         "id": 2,
         "title": "Getting Hot",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/knock2-3.jpg",
-        "source": "/src/assets/music/Knock2 - gettin hott.mp3"
+        "picture": "/public/assets/pictures/knock2-3.jpg",
+        "source": "/public/assets/music/Knock2 - gettin hott.mp3"
     },
     {
         "id": 3,
         "title": "Make U Sweat",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/makeusweat.jpg",
-        "source": "/src/assets/music/Knock2 - Make U SWEAT!.mp3"
+        "picture": "/public/assets/pictures/makeusweat.jpg",
+        "source": "/public/assets/music/Knock2 - Make U SWEAT!.mp3"
     },
     {
         "id": 4,
         "title": "REWiND",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/knock2-2.jpg",
-        "source": "/src/assets/music/Knock2 - REWiND.mp3"
+        "picture": "/public/assets/pictures/knock2-2.jpg",
+        "source": "/public/assets/music/Knock2 - REWiND.mp3"
     },
     {
         "id": 5,
         "title": "Rock Ur World",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/rockurworld.jpg",
-        "source": "/src/assets/music/Knock2 - Rock Ur World.mp3"
+        "picture": "/public/assets/pictures/rockurworld.jpg",
+        "source": "/public/assets/music/Knock2 - Rock Ur World.mp3"
     },
     {
         "id": 6,
         "title": "Buttons!",
         "artist": "Knock2",
-        "picture": "/src/assets/pictures/knock2-1.jpg",
-        "source": "/src/assets/music/Knock2, Dillon Francis - buttons!.mp3"
+        "picture": "/public/assets/pictures/knock2-1.jpg",
+        "source": "/public/assets/music/Knock2, Dillon Francis - buttons!.mp3"
     },
     {
         "id": 7,
         "title": "All i need",
         "artist": "Rad Cat",
-        "picture": "/src/assets/pictures/allineed.jpg",
-        "source": "/src/assets/music/all-i-need.mp3"
+        "picture": "/public/assets/pictures/allineed.jpg",
+        "source": "/public/assets/music/all-i-need.mp3"
     },
     {
         "id": 8,
         "title": "Inhuman",
         "artist": "ISOxo",
-        "picture": "/src/assets/pictures/inhuman.jpg",
-        "source": "/src/assets/music/inhuman.mp3"
+        "picture": "/public/assets/pictures/inhuman.jpg",
+        "source": "/public/assets/music/inhuman.mp3"
     },
     {
         "id": 9,
         "title": "Reason",
         "artist": "Rad Cat",
-        "picture": "/src/assets/pictures/reason.jpg",
-        "source": "/src/assets/music/reason.mp3"
+        "picture": "/public/assets/pictures/reason.jpg",
+        "source": "/public/assets/music/reason.mp3"
     },
     {
         "id": 10,
         "title": "Under Bright Lights",
         "artist": "TWERL x Ekko & Sidetrack",
-        "picture": "/src/assets/pictures/twerl.jpg",
-        "source": "/src/assets/music/TWERL x Ekko & Sidetrack - Under Bright Lights (ft. Indy Skies).mp3"
+        "picture": "/public/assets/pictures/twerl.jpg",
+        "source": "/public/assets/music/TWERL x Ekko & Sidetrack - Under Bright Lights (ft. Indy Skies).mp3"
     }
 ]
