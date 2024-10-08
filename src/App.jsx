@@ -37,7 +37,7 @@ function App() {
         {/* informations */}
         <img
         className='w-12 h-10 absolute top-5 right-5 cursor-pointer'
-        src='/src/assets/icons/infos.svg'
+        src='/assets/icons/infos.svg'
         alt='modal'
         onClick={handleclick}
         />
